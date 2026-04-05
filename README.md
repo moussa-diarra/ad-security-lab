@@ -177,9 +177,9 @@ Without these mistakes, none of the attacks succeed. This matches the real-world
 ![Admin PowerShell session](screenshots/pass-the-hash/01-admin-session.png)
 
 ### Events Viewer logs
-![Events ID 4624](screenshots/gpo/01-4624-events.png)
-![Events ID 4768](screenshots/gpo/02-4768-events.png)
-![Events ID 4648](screenshots/gpo/03-4648-events.png)
+![Events ID 4624](screenshots/events-viewer-logs/01-4624-events.png)
+![Events ID 4768](screenshots/events-viewer-logs/02-4768-events.png)
+![Events ID 4648](screenshots/events-viewer-logs/03-4648-events.png)
 
 ### GPO — Audit & Hardening
 ![Lockout policy](screenshots/gpo/01-lockout-policy.png)
